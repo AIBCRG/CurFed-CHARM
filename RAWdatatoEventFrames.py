@@ -8,7 +8,7 @@ input_folder = "path to input folder containing RAW files"  # Folder containing 
 output_folder = "path to save processed frames"  # Folder to save processed frames
 frame_width = 1280
 frame_height = 720
-accumulation_time_ms = 40  # Accumulation time in milliseconds
+accumulation_time_ms = 50  # Accumulation time in milliseconds
 
 # Ensure output directory exists
 os.makedirs(output_folder, exist_ok=True)
@@ -50,5 +50,6 @@ for raw_file in os.listdir(input_folder):
             frame_count += 1
 
         print(f"Total frames saved for '{raw_file}': {frame_count}")
+
 
 print("Processing complete.")
