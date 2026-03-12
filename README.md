@@ -6,6 +6,10 @@ To process the RAW data to Frames, we need to install the Metavision SDK. The de
 
 We have also uploaded the code for processing in the repository named: 
 
+```bash
+RAWdatatoEventFrames.py
+```
+
 <code style="color : red">RAWdatatoEventFrames.py</code>
 
 
