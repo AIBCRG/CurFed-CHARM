@@ -2,16 +2,17 @@
 This is a repository for implementation of "CurFed-CHARM: Curriculum Sequential Federated Learning with a Channel-Hierarchical Action Recognition Model for non-IID Heterogeneous Data in Neuromorphic/Event Cameras"
 
 ## Data processing
-To process the RAW data to Frames, we need to install the ```Metavision SDK```. The details are available here: https://docs.prophesee.ai/4.6.2/index.html
+To process the RAW data to Frames, we need to install the ```Metavision SDK```. The details are available here: 
+
+```bash
+https://docs.prophesee.ai/4.6.2/index.html
+```
 
 We have also uploaded the code for processing in the repository named: 
 
 ```bash
 RAWdatatoEventFrames.py
 ```
-
-
-<code style="color : red">RAWdatatoEventFrames.py</code>
 
 
 ## Sample
