@@ -3,7 +3,7 @@ This is a repository for implementation of "CurFed-CHARM: Curriculum Sequential 
 
 ## Sample
 
-
+![Alt text](https://github.com/AIBCRG/CurFed-CHARM/raw/main/Sequences.png)
 
 We will upload the link to the E-FED-Act Dataset and also details of the dataset.
 
