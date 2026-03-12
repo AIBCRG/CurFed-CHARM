@@ -21,6 +21,10 @@ There are 11 Human Actions which are generated with 8 Subjects. The samples of t
 
 ![Alt text](https://github.com/AIBCRG/CurFed-CHARM/raw/main/Sequences.png)
 
-We will upload the link to the E-FED-Act Dataset and also details of the dataset.
+## Data Availability
 
-We are currently in process of uploading the dataset. As soon as the uploading and due documentation is done, we will update this repository.
+We are currently in process of uploading the dataset. As soon as the dataset is uploaded, we will update the link below:
+
+```bash
+https://dataverse.no/
+```
