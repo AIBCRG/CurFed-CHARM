@@ -28,3 +28,16 @@ We are currently in process of uploading the dataset. As soon as the dataset is 
 ```bash
 https://dataverse.no/
 ```
+## Citation
+If you find the dataset and work usefull, please cite the work:
+
+```bash
+@article{zafar2026curfed,
+  title={CurFed-CHARM: Curriculum sequential federated learning with a channel-hierarchical action recognition model for non-IID heterogeneous data in neuromorphic/event cameras},
+  author={Zafar, Muhammad Hamza and Moosavi, Syed Kumayl Raza and Sanfilippo, Filippo},
+  journal={Computer Vision and Image Understanding},
+  pages={104696},
+  year={2026},
+  publisher={Elsevier}
+}
+```
