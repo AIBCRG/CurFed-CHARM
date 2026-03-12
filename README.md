@@ -10,6 +10,10 @@ We have also uploaded the code for processing in the repository named:
 RAWdatatoEventFrames.py
 ```
 
+'''bash
+RAWdatatoEventFrames.py
+'''
+
 <code style="color : red">RAWdatatoEventFrames.py</code>
 
 
