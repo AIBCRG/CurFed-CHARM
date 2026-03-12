@@ -1,5 +1,5 @@
 # CurFed-CHARM
-This is a repository for implementation of "CurFed-CHARM: Curriculum Sequential Federated Learning with a Channel-Hierarchical Action Recognition Model for non-IID Heterogeneous Data in Neuromorphic/Event Cameras"
+This is a repository for implementation of ```CurFed-CHARM: Curriculum Sequential Federated Learning with a Channel-Hierarchical Action Recognition Model for non-IID Heterogeneous Data in Neuromorphic/Event Cameras```
 
 ## Data processing
 To process the RAW data to Frames, we need to install the ```Metavision SDK```. The details are available here: 
