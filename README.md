@@ -3,6 +3,8 @@ This is a repository for implementation of "CurFed-CHARM: Curriculum Sequential 
 
 ## Sample
 
+There are 11 Human Actions which are generated with 8 Subjects. The samples of the some actions are shown below:
+
 ![Alt text](https://github.com/AIBCRG/CurFed-CHARM/raw/main/Sequences.png)
 
 We will upload the link to the E-FED-Act Dataset and also details of the dataset.
